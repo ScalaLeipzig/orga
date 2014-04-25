@@ -1,0 +1,14 @@
+= Event Themen
+
+== Gewünschte Themen
+
+Themen die von der Gruppe gewünscht wurden:
+
+
+== Potenzielle Themen mit Referenten
+
+Themen für die wir bereits Referenten hätten:
+
+* Live coding: REST service with Spray - Tobias Roeser
+* Domino - Eine Scala DSL für OSGi - Benjamin Klum
+* SBuild - Tobias Roeser
