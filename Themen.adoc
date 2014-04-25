@@ -10,5 +10,5 @@ Themen die von der Gruppe gewünscht wurden:
 Themen für die wir bereits Referenten hätten:
 
 * Live coding: REST service with Spray - Tobias Roeser
-* Domino - Eine Scala DSL für OSGi - Benjamin Klum
-* SBuild - Tobias Roeser
+* http://www.helgoboss.org/projects/domino/[Domino] - Eine Scala DSL für OSGi - Benjamin Klum
+* http://sbuild.org[SBuild] - Tobias Roeser
