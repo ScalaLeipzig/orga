@@ -1,0 +1,14 @@
+= Scala Leipig
+
+Self-organization of the Scala Leipzig user group.
+
+== Contact
+
+https://github.com/ScalaLeipzig/orga/[this Github repo]::
+Working material, notes, wiki, tools to organize the group.
+
+https://www.xing.com/de/communities/groups/scala-leipzig-980b-1004637[Xing Group]::
+Used for event publishing and provides a forum
+
+https://twitter.com/ScalaLeipzig[Twitter]::
+Used to announce events
