@@ -1,14 +1,25 @@
 = Scala Leipig
+:toc:
+:toc-placement: preamble
 
-Self-organization of the Scala Leipzig user group.
+Dieses Projekt enthält Material, Notizen und Tools zur Selbstorganisation der Scala Leipzig User Group.
 
-== Contact
+== Planung
 
-https://github.com/ScalaLeipzig/orga/[this Github repo]::
-Working material, notes, wiki, tools to organize the group.
+* link:Themen.adoc[Themen]
 
-https://www.xing.com/de/communities/groups/scala-leipzig-980b-1004637[Xing Group]::
-Used for event publishing and provides a forum
 
-https://twitter.com/ScalaLeipzig[Twitter]::
-Used to announce events
+== Kontakt
+
+https://github.com/ScalaLeipzig/orga/[*dieses GitHub Repo*]
+
+Arbeitsmaterial, Notizen, Wiki und Tools zu Organisation der Gruppe.
+
+https://www.xing.com/de/communities/groups/scala-leipzig-980b-1004637[*Xing Gruppe*]
+
+Ankündigung und Verwaltung von Events sowie Forum
+
+https://twitter.com/ScalaLeipzig[*Twitter*]
+
+Abkündigungen von Events.
+
