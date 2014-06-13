@@ -21,7 +21,7 @@ Ankündigung und Verwaltung von Events sowie Forum
 
 https://twitter.com/ScalaLeipzig[*Twitter*]
 
-Abkündigungen von Events.
+Ankündigungen von Events und als direkter Feedback-Kanal
 
 == Vergangene Events
 
