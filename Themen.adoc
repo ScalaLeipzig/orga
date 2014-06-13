@@ -4,11 +4,13 @@
 
 Themen die von der Gruppe gewünscht wurden:
 
+* Einsteigerthemen (die Hälfte aller Teilnehmer beim 1. Event hatte noch keine Scalaerfahrung)
+* Hands On - Scala Kurs
 
 == Potenzielle Themen mit Referenten
 
 Themen für die wir bereits Referenten hätten:
 
-* Live coding: REST service with Spray - Tobias Roeser
 * http://www.helgoboss.org/projects/domino/[Domino] - Eine Scala DSL für OSGi - Benjamin Klum
 * http://sbuild.org[SBuild] - Tobias Roeser
+* http://scaldi.org/[Scaldi] - A Scala dependency injection library - Oleg Ilyenko
