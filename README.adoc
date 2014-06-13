@@ -23,3 +23,23 @@ https://twitter.com/ScalaLeipzig[*Twitter*]
 
 Abkündigungen von Events.
 
+== Vergangene Events
+
+=== 2014-06-12: Entwicklung von REST-Services mit Scala, Spray und Akka 
+
+
+Spray ist ein Toolkit zum Bauen und Verwenden von REST Services,
+das auf Akka, einem Aktoren-Framework basiert und inzwischen auch in das Akka Projekt integriert wurde.
+Es bietet eine einfache und zugleich mächtige DSL für die Entwicklung von REST-Services.
+
+In dem Vortrag wollen wir, beginnend mit einem leeren Projekt, einen einfachen REST-Service mit Spray bauen
+und mit einem Spray-Client verwenden. Da kein Code ohne Tests leben kann, wollen wir natürlich auch zeigen,
+wie ein Spray-basierter REST Service getestet werden kann.
+
+Ihr werdet sehen, dass das Bauen von REST-Services sehr einfach sein kann - ohne Container,
+Boilerplate und XML - und kurze Entwicklungszeiten ermöglicht. 
+
+* Referent: Tobias Roeser
+* https://www.xing.com/events/entwicklung-rest-services-scala-spray-akka-1403829[Offizielle Event-Seite (Xing)]
+* Teilnehmer: ca. 20
+* https://github.com/lefou/spray-demo[Source Code (GitHub)]
