@@ -8,6 +8,16 @@ Dieses Projekt enthält Material, Notizen und Tools zur Selbstorganisation der S
 
 * link:Themen.adoc[Themen]
 
+=== Ankündigungen für Events
+
+* Xing-Gruppe
+** Einstellen des Events, offen für alle Xing-Mitglieder
+** Event-Einladungen an alle Gruppenmitglieder
+* Twitter: Ankündigung des Events mit Link auf Xing-Eventseite
+* JUG Saxony: Per Mail an Gruppe (oder Falk Hartmann) Event ankündigen
+* Wenn thematisch passend (z.B. Coding Dojo): Ankündigung in Softwerkskammer Sachsen (Portal)
+* Aufnahme in den http://typesafe.com/resources/community[Scala-Event-Kalender]: Mail an hello@takipi.com
+* Direkte Nachricht an Gruppenunterstützer und Sponsoren
 
 == Kontakt
 
@@ -22,6 +32,7 @@ Ankündigung und Verwaltung von Events sowie Forum
 https://twitter.com/ScalaLeipzig[*Twitter*]
 
 Ankündigungen von Events und als direkter Feedback-Kanal
+
 
 == Vergangene Events
 
